@@ -1,0 +1,147 @@
+/ Multi-Purpose /
+cstdlib
+execution
+
+/ Language Support /
+cfloat                          Completed               C header
+climits                         Completed               C header
+compare
+contracts                       Impossible              No templates
+coroutines
+csetjmp                         Completed               C header
+csignal                         Completed               C header
+cstdarg                         Completed               C header
+cstddef                         Completed               C header
+cstdint                         Completed               C header
+exception
+initializer_list
+limits
+new
+source_location                 Completed               wcsource_location
+stdfloat
+typeindex
+typeinfo
+version
+
+/ Concepts /
+concepts                        Impossible              No templates
+
+/ Diagnostics /
+cassert                         Completed               C header
+cerrno                          Completed               C header
+debugging
+stacktrace
+stdexcept
+system_error
+
+/ Memory Management /
+memory
+memory_resource
+scoped_allocator
+
+/ Metaprogramming /
+ratio
+type_traits
+
+/ General Utilities /
+any
+bit
+bitset
+expected
+functional
+optional
+tuple
+utility
+variant
+
+/ Containers /
+array
+deque
+flat_map
+flat_set
+forward_list
+hive
+inplace_vector
+list
+map
+mdspan
+queue
+set
+span
+stack
+unordered_map
+unordered_set
+vector
+
+/ Iterators /
+iterator
+
+/ Ranges /
+generator
+ranges
+
+/ Algorithms /
+algorithms
+numeric
+
+/ Strings /
+cstring                         Completed               C header
+string
+string_view
+
+/ Text Processing /
+cctype                          Completed               C header
+charcov
+clocale                         Completed               C header
+cuchar                          Completed               C header
+cwchar                          Completed               C header
+cwtype                          Completed               C header
+format
+locale
+regex
+text_encoding
+
+/ Numerics /
+cfenv                           Completed               C header
+cmath                           Completed               C header
+complex                         Completed               C header
+linalg
+numbers                         Completed               wcnumbers
+random
+simd
+valarray
+
+/ Time /
+chrono
+ctime                           Completed               C header
+
+/ Input-Output /
+cinttypes                       Completed               C header
+cstdio                          Completed               C header
+filesystem
+fstream
+iomanip
+ios
+iosfwd
+iostream
+istream
+ostream
+print
+spanstream
+sstream
+streambuf
+syncstream
+
+/ Concurrency /
+atomic
+barrier
+condition_variable
+future
+hazard_pointer
+latch
+mutex
+rcu
+semaphore
+shared_mutex
+stop_token
+thread
